@@ -30,7 +30,7 @@ public class Main {
             }
         }
 	    else if(choice==3){
-            System.out.println("Student list is: " + positions);
+            System.out.println(" list is: " + positions);
         }
 	    else if(choice==4){
             System.out.println("Good Bye");
